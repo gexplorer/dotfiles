@@ -1,0 +1,8 @@
+[user]
+	email = gexplorer8@gmail.com
+	name = Eder Elorriaga
+[pull]
+	rebase = true
+[github]
+	user = gexplorer
+	oauth-token = a
