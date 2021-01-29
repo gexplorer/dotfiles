@@ -116,3 +116,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
+source "$HOME/.homesick/repos/homeshick/homeshick.sh"
+source "$HOME/.homesick/repos/homeshick/completions/homeshick-completion.bash"
+

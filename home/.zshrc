@@ -143,3 +143,6 @@ export LESS_TERMCAP_ue=$'\E[0m'        # reset underline
 export GEM_HOME=$HOME/.gem/gems
 
 export JAVA_HOME=/usr/lib/jvm/java-15-openjdk-amd64
+
+source "$HOME/.homesick/repos/homeshick/homeshick.sh"
+source "$HOME/.homesick/repos/homeshick/completions/homeshick-completion.bash"
