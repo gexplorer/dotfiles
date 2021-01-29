@@ -72,9 +72,6 @@ esac
 ## Volume control for systray
 pnmixer &
 
-## Start Clipboard manager
-clipit &
-
 ## Start Thunar Daemon, if set as bl-file-manager
 if [ "$(readlink -f $(which bl-file-manager))" = "$(which thunar)" ]
 then
