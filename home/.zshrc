@@ -140,9 +140,6 @@ export LESS_TERMCAP_so=$'\E[1;40;97m' # begin reverse video
 export LESS_TERMCAP_se=$'\E[0m'        # reset reverse video
 export LESS_TERMCAP_us=$'\E[4;36m'     # begin underline
 export LESS_TERMCAP_ue=$'\E[0m'        # reset underline
-export GEM_HOME=$HOME/.gem/gems
-
-export JAVA_HOME=/usr/lib/jvm/java-15-openjdk-amd64
 
 source "$HOME/.homesick/repos/homeshick/homeshick.sh"
 source "$HOME/.homesick/repos/homeshick/completions/homeshick-completion.bash"
